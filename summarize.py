@@ -7,7 +7,7 @@ import openai
 # In[7]:
 
 ##ADD a valid OPEN AI Key here
-#OPENAI_API_KEY = ""
+some_key = ""
 
 
 
@@ -33,7 +33,7 @@ def generate_chat_completion(article_text, min_length=200, max_length=300, model
     gpt_user_prompt = f"Article: {article_text}"
     
     # Initialize the OpenAI client with your API key
-    client = openai.OpenAI(api_key=OPENAI_API_KEY)  # Ensure this line is uncommented and correct
+    client = openai.OpenAI(api_key=some_key))  # Ensure this line is uncommented and correct
     
     # Construct the messages list
     messages = [

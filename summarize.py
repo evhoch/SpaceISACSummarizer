@@ -6,8 +6,8 @@ import openai
 
 # In[7]:
 
-
-OPENAI_API_KEY = ""
+##ADD a valid OPEN AI Key here
+#OPENAI_API_KEY = ""
 
 
 

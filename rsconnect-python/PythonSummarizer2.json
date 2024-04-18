@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\C25Evan.Hoch\\OneDrive - afacademy.af.edu\\Desktop\\Research\\DS499\\Final App\\PythonSummarizer2",
+        "app_url": "https://0ol5ae-evan-hoch.shinyapps.io/python_summarizer/",
+        "app_id": 11801452,
+        "app_guid": null,
+        "title": "Python Summarizer",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}

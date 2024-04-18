@@ -7,9 +7,9 @@ import openai
 # In[7]:
 
 
-OPENAI_API_KEY_EVAN = "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"
+OPENAI_API_KEY = ""
 
-OPENAI_API_KEY_KARIS = "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"
+
 
 
 # In[53]:
